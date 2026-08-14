@@ -63,13 +63,14 @@ O dashboard acompanha indicadores como:
 
 A primeira página apresenta uma visão consolidada da performance da vinícola, permitindo acompanhar faturamento, rentabilidade, fluxo de visitantes, evolução mensal e comportamento dos principais períodos comerciais.
 
-> Imagem da página Visão Executiva será adicionada aqui.
+![Dashboard Visão Executiva](VISÃO%20EXECUTIVA.png) 
 
 ### Vendas & Experiências
 
 A segunda página aprofunda a análise do perfil das vendas e das experiências oferecidas pela vinícola, incluindo análise dinâmica dos produtos e comparação da procura por experiências entre diferentes períodos comerciais.
 
-> Imagem da página Vendas & Experiências será adicionada aqui.
+![Dashboard Vendas e Experiências](VENDAS%20E%20EXPERIÊNCIAS.png) 
+
 
 ## 💡 Principais insights
 

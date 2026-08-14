@@ -88,6 +88,12 @@ Durante o projeto foram utilizados recursos e funções como:
 
 Além da criação de medidas para indicadores financeiros, operacionais, análise temporal e comparação de períodos.
 
+## 📥 Arquivo do projeto
+
+O arquivo `.pbix` deste projeto está disponível neste repositório para consulta da modelagem, medidas DAX e construção dos dashboards.
+
+➡️ [Acessar arquivo Power BI](Vinícola%20Serra%20D'ouro.pbix) 
+
 ## 📁 Sobre os dados
 
 Os dados utilizados neste projeto são fictícios e foram criados exclusivamente para fins de estudo e desenvolvimento de portfólio. Nenhuma informação representa uma empresa ou operação real.
